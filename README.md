@@ -16,9 +16,6 @@ This guide details the process of creating a personalized 3D avatar from a photo
 
 ## Step-by-Step Guide
 
-### Original Image
-![sethu](https://github.com/user-attachments/assets/19c183ee-184d-4eab-a7c5-ae30c56b590d)
-
 ### 1. Image Cartoonization with ChatGPT
 
 -   **Upload Your Photo:** Start by uploading a clear, front-facing photo of yourself to ChatGPT.

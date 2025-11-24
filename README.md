@@ -1,3 +1,7 @@
+# Demo Intro
+
+https://github.com/user-attachments/assets/bdd24081-5b75-4e12-bbc7-c48942f4dddb
+
 # 3D Avatar Creation for Unity
 
 This guide details the process of creating a personalized 3D avatar from a photograph and integrating it into a Unity project. The workflow involves several tools: ChatGPT, Trellis, Blender, and Mixamo.
@@ -24,6 +28,7 @@ This guide details the process of creating a personalized 3D avatar from a photo
 -   **Upload Images:** Upload both the original and cartoonized images to the Trellis interface.
 -   **Generate 3D Model:** Follow the instructions in the Trellis space to generate a 3D model. This process may take some time.
 -   **Download:** Once complete, download the generated 3D model in `.glb` format.
+-   ![trellis](https://github.com/user-attachments/assets/c8966da0-bd5e-4d57-8666-e1b0f5b2ec46)
 
 ### 3. Model Refinement in Blender
 
@@ -32,6 +37,7 @@ This guide details the process of creating a personalized 3D avatar from a photo
     -   **Rigging:** Create an armature (skeleton) for your model and parent the mesh to it. This process, known as rigging, is essential for animation.
     -   **Material Adjustments:** Tweak the materials and textures of your model to achieve the desired visual quality.
 -   **Export as `.fbx`:** Export the refined model in `.fbx` format, ensuring that the mesh and armature are included.
+-   ![belnder](https://github.com/user-attachments/assets/beb91ae0-93ee-44e4-a580-c328142524d5)
 
 ### 4. Auto-Rigging and Animation with Mixamo
 

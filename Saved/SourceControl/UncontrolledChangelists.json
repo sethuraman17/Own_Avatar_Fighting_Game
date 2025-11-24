@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/aswinkumar/Documents/Unreal Projects/OWN_CHARACTER/Content/sethu/model/sethu_material_0.uasset",
+				"C:/Users/aswinkumar/Documents/Unreal Projects/OWN_CHARACTER/Content/sethu/model/sethu_texture_0.uasset",
+				"C:/Users/aswinkumar/Documents/Unreal Projects/OWN_CHARACTER/Content/sethu/model/Material_0.uasset",
+				"C:/Users/aswinkumar/Documents/Unreal Projects/OWN_CHARACTER/Content/sethu/model/sethu.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uasset",
+				"C:/Users/aswinkumar/Documents/Unreal Projects/OWN_CHARACTER/Content/sethu/model/sethu2.uasset",
+				"C:/Users/aswinkumar/Documents/Unreal Projects/OWN_CHARACTER/Content/sethu/model/sethu/StaticMeshes/sethu.uasset",
+				"C:/Users/aswinkumar/Documents/Unreal Projects/OWN_CHARACTER/Content/sethu/model/sethu2_Anim.uasset",
+				"C:/Users/aswinkumar/Documents/Unreal Projects/OWN_CHARACTER/Content/sethu/model/sethu2_Skeleton.uasset",
+				"C:/Users/aswinkumar/Documents/Unreal Projects/OWN_CHARACTER/Content/sethu/model/sethu/Materials/sethu_material_0.uasset",
+				"C:/Users/aswinkumar/Documents/Unreal Projects/OWN_CHARACTER/Content/sethu/model/sethu/Textures/sethu_texture_0.uasset",
+				"C:/Users/aswinkumar/Documents/Unreal Projects/OWN_CHARACTER/Content/sethu/animations/Falling.uasset",
+				"C:/Users/aswinkumar/Documents/Unreal Projects/OWN_CHARACTER/Content/sethu/animations/Idle.uasset",
+				"C:/Users/aswinkumar/Documents/Unreal Projects/OWN_CHARACTER/Content/sethu/animations/Jumping_Down.uasset",
+				"C:/Users/aswinkumar/Documents/Unreal Projects/OWN_CHARACTER/Content/sethu/animations/Jumping_Up.uasset",
+				"C:/Users/aswinkumar/Documents/Unreal Projects/OWN_CHARACTER/Content/sethu/animations/Running.uasset",
+				"C:/Users/aswinkumar/Documents/Unreal Projects/OWN_CHARACTER/Content/sethu/animations/Walking.uasset",
+				"C:/Users/aswinkumar/Documents/Unreal Projects/OWN_CHARACTER/Content/sethu/animations/sethu_movements_1d.uasset",
+				"C:/Users/aswinkumar/Documents/Unreal Projects/OWN_CHARACTER/Content/sethu/animations/sethu_blueprint.uasset",
+				"C:/Users/aswinkumar/Documents/Unreal Projects/OWN_CHARACTER/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
